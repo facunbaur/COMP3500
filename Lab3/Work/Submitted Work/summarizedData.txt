@@ -1,0 +1,369 @@
+initial FCFS
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 1, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 229
+ATAT=17.645918   ART=3.047055  CBT = 0.971225  T=0.987630 AWT=12.438119
+
+
+initial SRTF
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 2, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 243
+ATAT=4.167688   ART=1.422049  CBT = 0.970897  T=1.047933 AWT=2.098073
+
+
+initial RR 10
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.010000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.548371   ART=0.103391  CBT = 0.967029  T=1.013795 AWT=9.258256
+
+
+initial RR 20
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.020000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.289114   ART=0.191964  CBT = 0.970411  T=1.013815 AWT=8.889810
+
+
+initial RR 50
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.050000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.984953   ART=0.462164  CBT = 0.976775  T=1.013680 AWT=9.227262
+
+
+initial RR 250
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.250000   Show = 0
+Number of Completed Processes = 228
+ATAT=14.581814   ART=1.857907  CBT = 0.980148  T=0.983577 AWT=10.916514
+
+
+initial RR 500
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.500000   Show = 0
+Number of Completed Processes = 228
+ATAT=16.393368   ART=2.620341  CBT = 0.980404  T=0.982863 AWT=11.682897
+
+
+
+omap FCFS
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 1, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 229
+ATAT=17.166385   ART=3.408817  CBT = 0.971220  T=0.987624 AWT=11.559703 AWTJQ=0.539989
+
+
+omap SRTF
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 2, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 243
+ATAT=4.182759   ART=1.430318  CBT = 0.971025  T=1.048071 AWT=2.107486 AWTJQ=0.001027
+
+
+omap RR 10
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.010000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.354262   ART=0.101761  CBT = 0.968668  T=1.013903 AWT=9.068508 AWTJQ=0.000999
+
+
+omap RR 20
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.020000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.239099   ART=0.192256  CBT = 0.971770  T=1.013838 AWT=8.841898 AWTJQ=0.001064
+
+
+omap RR 50
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.050000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.924752   ART=0.463360  CBT = 0.977139  T=1.013833 AWT=9.171097 AWTJQ=0.001021
+
+
+omap RR 250
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.250000   Show = 0
+Number of Completed Processes = 229
+ATAT=14.507688   ART=1.974098  CBT = 0.980323  T=0.987156 AWT=10.695091 AWTJQ=0.161974
+
+omap RR 500
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.500000   Show = 0
+Number of Completed Processes = 228
+ATAT=16.147570   ART=2.809357  CBT = 0.981086  T=0.983423 AWT=11.213781 AWTJQ=0.299555
+
+
+256 paging FCFS
+
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 1, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 229
+ATAT=17.156220   ART=3.435298  CBT = 0.972493  T=0.987720 AWT=11.563717 AWTJQ=0.571876
+
+256 paging SRTF
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 2, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 243
+ATAT=4.175654   ART=1.412969  CBT = 0.970956  T=1.047997 AWT=2.101737 AWTJQ=0.001104
+
+
+256 paging RR 10
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.010000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.269462   ART=0.100470  CBT = 0.969557  T=1.013868 AWT=8.986466 AWTJQ=0.001047
+
+
+256 paging RR 20
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.020000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.205009   ART=0.190126  CBT = 0.971673  T=1.013827 AWT=8.807750 AWTJQ=0.001079
+
+
+256 paging RR 50
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.050000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.900322   ART=0.462882  CBT = 0.977274  T=1.013749 AWT=9.149781 AWTJQ=0.001043
+
+
+256 paging RR 250
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.250000   Show = 0
+Number of Completed Processes = 229
+ATAT=14.508097   ART=1.970307  CBT = 0.980255  T=0.987088 AWT=10.691832 AWTJQ=0.162051
+
+
+256 paging RR 500
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.500000   Show = 0
+Number of Completed Processes = 228
+ATAT=16.188337   ART=2.854083  CBT = 0.981085  T=0.983422 AWT=11.227980 AWTJQ=0.326618
+
+
+
+8192 paging FCFS
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 1, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 229
+ATAT=16.644926   ART=3.549465  CBT = 0.971227  T=0.987631 AWT=10.905334 AWTJQ=0.829181
+
+
+8192 paging SRTF
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 2, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 243
+ATAT=4.180278   ART=1.427658  CBT = 0.970980  T=1.048023 AWT=2.104718 AWTJQ=0.001140
+
+
+8192 paging RR 10
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.010000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.321589   ART=0.101383  CBT = 0.969122  T=1.013860 AWT=9.037519 AWTJQ=0.001023
+
+
+8192 paging RR 20
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.020000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.247727   ART=0.191277  CBT = 0.971537  T=1.013865 AWT=8.850397 AWTJQ=0.001038
+
+
+8192 paging RR 50
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.050000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.890679   ART=0.476053  CBT = 0.977146  T=1.013841 AWT=9.133591 AWTJQ=0.010345
+
+
+8192 paging RR 250
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.250000   Show = 0
+Number of Completed Processes = 229
+ATAT=14.451484   ART=2.208626  CBT = 0.980302  T=0.987135 AWT=10.393626 AWTJQ=0.432436
+
+
+8192 paging RR 500
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.500000   Show = 0
+Number of Completed Processes = 228
+ATAT=15.870141   ART=2.985508  CBT = 0.981042  T=0.983379 AWT=10.763719 AWTJQ=0.574606
+
+
+BF FCFS
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 1, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 229
+ATAT=17.182111   ART=3.411628  CBT = 0.971295  T=0.987701 AWT=11.604862 AWTJQ=0.539935
+
+BF SRTF
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 2, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 243
+ATAT=4.167661   ART=1.421526  CBT = 0.970966  T=1.048008 AWT=2.097515 AWTJQ=0.001073
+
+BF RR 10
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.010000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.311057   ART=0.100771  CBT = 0.969213  T=1.013865 AWT=9.027333 AWTJQ=0.001023
+
+BF RR 20
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.020000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.237342   ART=0.192276  CBT = 0.971587  T=1.013827 AWT=8.840354 AWTJQ=0.001096
+
+BF RR 50
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.050000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.871857   ART=0.462918  CBT = 0.977411  T=1.013826 AWT=9.120966 AWTJQ=0.001038
+
+BF RR 250
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.250000   Show = 0
+Number of Completed Processes = 229
+ATAT=14.504738   ART=1.969637  CBT = 0.980381  T=0.987215 AWT=10.692372 AWTJQ=0.161966
+
+BF RR 500
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.500000   Show = 0
+Number of Completed Processes = 228
+ATAT=16.137925   ART=2.824628  CBT = 0.981059  T=0.983396 AWT=11.211418 AWTJQ=0.299507
+
+
+WF FCFS
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 1, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 229
+ATAT=17.188443   ART=3.416023  CBT = 0.971278  T=0.987684 AWT=11.608174 AWTJQ=0.539990
+
+WF SRTF
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 2, Quantum = 0.005000   Show = 0
+Number of Completed Processes = 243
+ATAT=4.171851   ART=1.410313  CBT = 0.971089  T=1.048141 AWT=2.096041 AWTJQ=0.001057
+
+WF RR 10
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.010000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.241940   ART=0.100141  CBT = 0.969342  T=1.013869 AWT=8.960015 AWTJQ=0.001020
+
+WF RR 20
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.020000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.239799   ART=0.191750  CBT = 0.971476  T=1.013801 AWT=8.841634 AWTJQ=0.001034
+
+WF RR 50
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.050000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.881706   ART=0.463509  CBT = 0.977396  T=1.013653 AWT=9.133898 AWTJQ=0.001069
+
+WF RR 250
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.250000   Show = 0
+Number of Completed Processes = 229
+ATAT=14.517231   ART=1.975869  CBT = 0.980400  T=0.987234 AWT=10.701029 AWTJQ=0.161941
+
+WF RR 500
+
+
+********* Processes Managemenent Numbers ******************************
+
+Policy Number = 3, Quantum = 0.500000   Show = 0
+Number of Completed Processes = 228
+ATAT=16.131121   ART=2.823788  CBT = 0.981097  T=0.983435 AWT=11.212059 AWTJQ=0.299564

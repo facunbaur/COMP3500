@@ -1,0 +1,1746 @@
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      1.771 : PID(  0)  JAT(     1.769) TJD(     2.106)   Mem(57079)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 4096 Pages Requested: 223 Pages Taken: 0
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      2.321 : PID(  1)  JAT(     2.321) TJD(     0.331)   Mem(24329)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3873 Pages Requested: 96 Pages Taken: 223
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      2.456 : PID(  2)  JAT(     2.456) TJD(     0.727)   Mem(23347)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3777 Pages Requested: 92 Pages Taken: 319
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      2.768 : PID(  3)  JAT(     2.767) TJD(     0.838)   Mem(50964)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3685 Pages Requested: 200 Pages Taken: 411
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      2.936 : PID(  4)  JAT(     2.936) TJD(     0.301)   Mem(5674)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3485 Pages Requested: 23 Pages Taken: 611
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      3.723 : PID(  5)  JAT(     3.722) TJD(     0.546)   Mem(25760)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3462 Pages Requested: 101 Pages Taken: 634
+ >>>>>Process # 1 complete, 0 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      4.288 : PID(  6)  JAT(     4.287) TJD(     0.128)   Mem(10909)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3457 Pages Requested: 43 Pages Taken: 639
+ >>>>>Process # 4 complete, 1 Processes Completed So Far <<<<<<
+ >>>>>Process # 6 complete, 2 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      5.579 : PID(  7)  JAT(     5.577) TJD(     0.071)   Mem(28713)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3480 Pages Requested: 113 Pages Taken: 616
+ >>>>>Process # 2 complete, 3 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      5.815 : PID(  8)  JAT(     5.815) TJD(     2.249)   Mem(61661)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3459 Pages Requested: 241 Pages Taken: 637
+ >>>>>Process # 7 complete, 4 Processes Completed So Far <<<<<<
+ >>>>>Process # 5 complete, 5 Processes Completed So Far <<<<<<
+ >>>>>Process # 3 complete, 6 Processes Completed So Far <<<<<<
+ >>>>>Process # 0 complete, 7 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J      9.485 : PID(  9)  JAT(     9.481) TJD(     0.866)   Mem(10357)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3855 Pages Requested: 41 Pages Taken: 241
+ >>>>>Process # 8 complete, 8 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     10.122 : PID( 10)  JAT(    10.121) TJD(     0.758)   Mem(17483)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 4055 Pages Requested: 69 Pages Taken: 41
+ >>>>>Process # 9 complete, 9 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     11.283 : PID( 11)  JAT(    11.282) TJD(     2.008)   Mem(50589)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 4027 Pages Requested: 198 Pages Taken: 69
+ >>>>>Process # 10 complete, 10 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     11.633 : PID( 12)  JAT(    11.632) TJD(     0.245)   Mem(27132)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3898 Pages Requested: 106 Pages Taken: 198
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     12.066 : PID( 13)  JAT(    12.065) TJD(     0.619)   Mem(45132)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3792 Pages Requested: 177 Pages Taken: 304
+ >>>>>Process # 12 complete, 11 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     12.896 : PID( 14)  JAT(    12.895) TJD(     0.496)   Mem(41553)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3721 Pages Requested: 163 Pages Taken: 375
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     13.666 : PID( 15)  JAT(    13.665) TJD(     1.781)   Mem(62974)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3558 Pages Requested: 246 Pages Taken: 538
+ >>>>>Process # 13 complete, 12 Processes Completed So Far <<<<<<
+ >>>>>Process # 14 complete, 13 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     15.604 : PID( 16)  JAT(    15.602) TJD(     1.013)   Mem(62440)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3652 Pages Requested: 244 Pages Taken: 444
+ >>>>>Process # 11 complete, 14 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     16.631 : PID( 17)  JAT(    16.630) TJD(     2.061)   Mem(62603)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3606 Pages Requested: 245 Pages Taken: 490
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     16.647 : PID( 18)  JAT(    16.647) TJD(     0.130)   Mem(10039)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3361 Pages Requested: 40 Pages Taken: 735
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     16.742 : PID( 19)  JAT(    16.742) TJD(     2.476)   Mem(62598)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3321 Pages Requested: 245 Pages Taken: 775
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     16.777 : PID( 20)  JAT(    16.777) TJD(     0.195)   Mem(37547)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3076 Pages Requested: 147 Pages Taken: 1020
+ >>>>>Process # 18 complete, 15 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     18.042 : PID( 21)  JAT(    18.040) TJD(     0.491)   Mem(28774)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2969 Pages Requested: 113 Pages Taken: 1127
+ >>>>>Process # 20 complete, 16 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     19.023 : PID( 22)  JAT(    19.021) TJD(     3.196)   Mem(50447)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3003 Pages Requested: 198 Pages Taken: 1093
+ >>>>>Process # 15 complete, 17 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     19.347 : PID( 23)  JAT(    19.347) TJD(     0.768)   Mem(42175)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3051 Pages Requested: 165 Pages Taken: 1045
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     19.640 : PID( 24)  JAT(    19.639) TJD(     2.639)   Mem(50803)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2886 Pages Requested: 199 Pages Taken: 1210
+ >>>>>Process # 16 complete, 18 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     19.992 : PID( 25)  JAT(    19.991) TJD(     1.073)   Mem(5119)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2931 Pages Requested: 20 Pages Taken: 1165
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     20.366 : PID( 26)  JAT(    20.366) TJD(     0.284)   Mem(12958)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2911 Pages Requested: 51 Pages Taken: 1185
+ >>>>>Process # 21 complete, 19 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     22.235 : PID( 27)  JAT(    22.233) TJD(     0.165)   Mem(36221)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2973 Pages Requested: 142 Pages Taken: 1123
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     23.385 : PID( 28)  JAT(    23.383) TJD(     0.753)   Mem(14204)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2831 Pages Requested: 56 Pages Taken: 1265
+ >>>>>Process # 26 complete, 20 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     23.700 : PID( 29)  JAT(    23.700) TJD(     0.481)   Mem(31423)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2826 Pages Requested: 123 Pages Taken: 1270
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     23.763 : PID( 30)  JAT(    23.762) TJD(     1.852)   Mem(1220)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2703 Pages Requested: 5 Pages Taken: 1393
+ >>>>>Process # 27 complete, 21 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     24.456 : PID( 31)  JAT(    24.456) TJD(     0.144)   Mem(6197)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2840 Pages Requested: 25 Pages Taken: 1256
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     24.610 : PID( 32)  JAT(    24.610) TJD(     0.493)   Mem(6750)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2815 Pages Requested: 27 Pages Taken: 1281
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     24.799 : PID( 33)  JAT(    24.799) TJD(     0.086)   Mem(33688)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2788 Pages Requested: 132 Pages Taken: 1308
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     24.922 : PID( 34)  JAT(    24.921) TJD(     0.511)   Mem(31191)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2656 Pages Requested: 122 Pages Taken: 1440
+ >>>>>Process # 23 complete, 22 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     25.796 : PID( 35)  JAT(    25.795) TJD(     0.115)   Mem(38505)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2699 Pages Requested: 151 Pages Taken: 1397
+ >>>>>Process # 31 complete, 23 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     27.300 : PID( 36)  JAT(    27.299) TJD(     1.654)   Mem(45664)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2573 Pages Requested: 179 Pages Taken: 1523
+ >>>>>Process # 33 complete, 24 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     27.655 : PID( 37)  JAT(    27.655) TJD(     0.390)   Mem(43006)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2526 Pages Requested: 168 Pages Taken: 1570
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     27.825 : PID( 38)  JAT(    27.825) TJD(     0.027)   Mem(21906)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2358 Pages Requested: 86 Pages Taken: 1738
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     28.048 : PID( 39)  JAT(    28.048) TJD(     0.132)   Mem(39603)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2272 Pages Requested: 155 Pages Taken: 1824
+ >>>>>Process # 35 complete, 25 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     28.917 : PID( 40)  JAT(    28.916) TJD(     0.126)   Mem(30548)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2268 Pages Requested: 120 Pages Taken: 1828
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     30.317 : PID( 41)  JAT(    30.316) TJD(     0.153)   Mem(48335)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2148 Pages Requested: 189 Pages Taken: 1948
+ >>>>>Process # 38 complete, 26 Processes Completed So Far <<<<<<
+ >>>>>Process # 29 complete, 27 Processes Completed So Far <<<<<<
+ >>>>>Process # 39 complete, 28 Processes Completed So Far <<<<<<
+ >>>>>Process # 25 complete, 29 Processes Completed So Far <<<<<<
+ >>>>>Process # 40 complete, 30 Processes Completed So Far <<<<<<
+ >>>>>Process # 28 complete, 31 Processes Completed So Far <<<<<<
+ >>>>>Process # 32 complete, 32 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     32.341 : PID( 42)  JAT(    32.341) TJD(     0.219)   Mem(32738)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2546 Pages Requested: 128 Pages Taken: 1550
+ >>>>>Process # 34 complete, 33 Processes Completed So Far <<<<<<
+ >>>>>Process # 41 complete, 34 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     32.906 : PID( 43)  JAT(    32.906) TJD(     3.011)   Mem(21919)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2729 Pages Requested: 86 Pages Taken: 1367
+ >>>>>Process # 37 complete, 35 Processes Completed So Far <<<<<<
+ >>>>>Process # 17 complete, 36 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     33.759 : PID( 44)  JAT(    33.758) TJD(     2.187)   Mem(44312)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3056 Pages Requested: 174 Pages Taken: 1040
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     34.292 : PID( 45)  JAT(    34.291) TJD(     0.265)   Mem(62817)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2882 Pages Requested: 246 Pages Taken: 1214
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     34.438 : PID( 46)  JAT(    34.437) TJD(     0.555)   Mem(25246)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2636 Pages Requested: 99 Pages Taken: 1460
+ >>>>>Process # 42 complete, 37 Processes Completed So Far <<<<<<
+ >>>>>Process # 19 complete, 38 Processes Completed So Far <<<<<<
+ >>>>>Process # 45 complete, 39 Processes Completed So Far <<<<<<
+ >>>>>Process # 46 complete, 40 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     40.739 : PID( 47)  JAT(    40.732) TJD(     2.633)   Mem(1629)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3255 Pages Requested: 7 Pages Taken: 841
+ >>>>>Process # 30 complete, 41 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     41.015 : PID( 48)  JAT(    41.015) TJD(     0.064)   Mem(36025)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3253 Pages Requested: 141 Pages Taken: 843
+ >>>>>Process # 36 complete, 42 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     41.898 : PID( 49)  JAT(    41.897) TJD(     1.459)   Mem(20367)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3291 Pages Requested: 80 Pages Taken: 805
+ >>>>>Process # 24 complete, 43 Processes Completed So Far <<<<<<
+ >>>>>Process # 48 complete, 44 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     43.464 : PID( 50)  JAT(    43.462) TJD(     0.890)   Mem(10743)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3551 Pages Requested: 42 Pages Taken: 545
+ >>>>>Process # 22 complete, 45 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     44.241 : PID( 51)  JAT(    44.240) TJD(     1.526)   Mem(47122)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3707 Pages Requested: 185 Pages Taken: 389
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     44.983 : PID( 52)  JAT(    44.982) TJD(     0.411)   Mem(16090)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3522 Pages Requested: 63 Pages Taken: 574
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     47.070 : PID( 53)  JAT(    47.069) TJD(     2.042)   Mem(49503)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3459 Pages Requested: 194 Pages Taken: 637
+ >>>>>Process # 44 complete, 46 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     48.037 : PID( 54)  JAT(    48.036) TJD(     2.293)   Mem(24891)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3439 Pages Requested: 98 Pages Taken: 657
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     48.507 : PID( 55)  JAT(    48.507) TJD(     0.778)   Mem(54062)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3341 Pages Requested: 212 Pages Taken: 755
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     49.102 : PID( 56)  JAT(    49.102) TJD(     0.644)   Mem(17371)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3129 Pages Requested: 68 Pages Taken: 967
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     49.800 : PID( 57)  JAT(    49.800) TJD(     0.639)   Mem(55716)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3061 Pages Requested: 218 Pages Taken: 1035
+ >>>>>Process # 52 complete, 47 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     49.885 : PID( 58)  JAT(    49.885) TJD(     0.545)   Mem(39719)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2906 Pages Requested: 156 Pages Taken: 1190
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     50.381 : PID( 59)  JAT(    50.380) TJD(     0.312)   Mem(14366)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2750 Pages Requested: 57 Pages Taken: 1346
+ >>>>>Process # 50 complete, 48 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     50.648 : PID( 60)  JAT(    50.647) TJD(     0.216)   Mem(6117)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2735 Pages Requested: 24 Pages Taken: 1361
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     50.755 : PID( 61)  JAT(    50.755) TJD(     0.030)   Mem(40634)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2711 Pages Requested: 159 Pages Taken: 1385
+ >>>>>Process # 49 complete, 49 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     53.462 : PID( 62)  JAT(    53.459) TJD(     0.415)   Mem(5100)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2632 Pages Requested: 20 Pages Taken: 1464
+ >>>>>Process # 61 complete, 50 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     54.047 : PID( 63)  JAT(    54.046) TJD(     0.442)   Mem(61263)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2771 Pages Requested: 240 Pages Taken: 1325
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     54.607 : PID( 64)  JAT(    54.606) TJD(     0.690)   Mem(8145)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2531 Pages Requested: 32 Pages Taken: 1565
+ >>>>>Process # 59 complete, 51 Processes Completed So Far <<<<<<
+ >>>>>Process # 60 complete, 52 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     56.052 : PID( 65)  JAT(    56.050) TJD(     0.526)   Mem(56643)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2580 Pages Requested: 222 Pages Taken: 1516
+ >>>>>Process # 43 complete, 53 Processes Completed So Far <<<<<<
+ >>>>>Process # 55 complete, 54 Processes Completed So Far <<<<<<
+ >>>>>Process # 58 complete, 55 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     57.300 : PID( 66)  JAT(    57.299) TJD(     0.177)   Mem(32160)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2812 Pages Requested: 126 Pages Taken: 1284
+ >>>>>Process # 56 complete, 56 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     57.823 : PID( 67)  JAT(    57.822) TJD(     1.659)   Mem(45891)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2754 Pages Requested: 180 Pages Taken: 1342
+ >>>>>Process # 57 complete, 57 Processes Completed So Far <<<<<<
+ >>>>>Process # 51 complete, 58 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     58.343 : PID( 68)  JAT(    58.342) TJD(     0.757)   Mem(13969)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2977 Pages Requested: 55 Pages Taken: 1119
+ >>>>>Process # 62 complete, 59 Processes Completed So Far <<<<<<
+ >>>>>Process # 66 complete, 60 Processes Completed So Far <<<<<<
+ >>>>>Process # 63 complete, 61 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     60.048 : PID( 69)  JAT(    60.046) TJD(     1.370)   Mem(17520)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3308 Pages Requested: 69 Pages Taken: 788
+ >>>>>Process # 65 complete, 62 Processes Completed So Far <<<<<<
+ >>>>>Process # 47 complete, 63 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     61.549 : PID( 70)  JAT(    61.548) TJD(     1.186)   Mem(29374)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3468 Pages Requested: 115 Pages Taken: 628
+ >>>>>Process # 64 complete, 64 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     62.994 : PID( 71)  JAT(    62.992) TJD(     0.387)   Mem(49200)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3385 Pages Requested: 193 Pages Taken: 711
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     63.361 : PID( 72)  JAT(    63.361) TJD(     0.248)   Mem(26263)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3192 Pages Requested: 103 Pages Taken: 904
+ >>>>>Process # 68 complete, 65 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     64.346 : PID( 73)  JAT(    64.345) TJD(     0.565)   Mem(58955)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3144 Pages Requested: 231 Pages Taken: 952
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     64.769 : PID( 74)  JAT(    64.769) TJD(     4.160)   Mem(11513)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2913 Pages Requested: 45 Pages Taken: 1183
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     65.211 : PID( 75)  JAT(    65.210) TJD(     0.352)   Mem(50553)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2868 Pages Requested: 198 Pages Taken: 1228
+ >>>>>Process # 53 complete, 66 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     65.491 : PID( 76)  JAT(    65.491) TJD(     1.372)   Mem(41813)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2864 Pages Requested: 164 Pages Taken: 1232
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     66.008 : PID( 77)  JAT(    66.007) TJD(     0.907)   Mem(4885)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2700 Pages Requested: 20 Pages Taken: 1396
+ >>>>>Process # 71 complete, 67 Processes Completed So Far <<<<<<
+ >>>>>Process # 72 complete, 68 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     67.385 : PID( 78)  JAT(    67.384) TJD(     0.654)   Mem(33137)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2976 Pages Requested: 130 Pages Taken: 1120
+ >>>>>Process # 54 complete, 69 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     68.625 : PID( 79)  JAT(    68.624) TJD(     0.371)   Mem(58857)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2944 Pages Requested: 230 Pages Taken: 1152
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     69.024 : PID( 80)  JAT(    69.023) TJD(     0.159)   Mem(37597)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2714 Pages Requested: 147 Pages Taken: 1382
+ >>>>>Process # 75 complete, 70 Processes Completed So Far <<<<<<
+ >>>>>Process # 73 complete, 71 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     70.719 : PID( 81)  JAT(    70.717) TJD(     0.669)   Mem(37019)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2996 Pages Requested: 145 Pages Taken: 1100
+ >>>>>Process # 69 complete, 72 Processes Completed So Far <<<<<<
+ >>>>>Process # 70 complete, 73 Processes Completed So Far <<<<<<
+ >>>>>Process # 80 complete, 74 Processes Completed So Far <<<<<<
+ >>>>>Process # 67 complete, 75 Processes Completed So Far <<<<<<
+ >>>>>Process # 79 complete, 76 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     72.506 : PID( 82)  JAT(    72.504) TJD(     0.399)   Mem(20257)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3592 Pages Requested: 80 Pages Taken: 504
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     72.550 : PID( 83)  JAT(    72.550) TJD(     0.407)   Mem(4740)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3512 Pages Requested: 19 Pages Taken: 584
+ >>>>>Process # 78 complete, 77 Processes Completed So Far <<<<<<
+ >>>>>Process # 77 complete, 78 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     74.587 : PID( 84)  JAT(    74.585) TJD(     0.660)   Mem(46911)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3643 Pages Requested: 184 Pages Taken: 453
+ >>>>>Process # 82 complete, 79 Processes Completed So Far <<<<<<
+ >>>>>Process # 76 complete, 80 Processes Completed So Far <<<<<<
+ >>>>>Process # 81 complete, 81 Processes Completed So Far <<<<<<
+ >>>>>Process # 83 complete, 82 Processes Completed So Far <<<<<<
+ >>>>>Process # 84 complete, 83 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     76.750 : PID( 85)  JAT(    76.748) TJD(     0.828)   Mem(46362)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 4051 Pages Requested: 182 Pages Taken: 45
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     76.994 : PID( 86)  JAT(    76.993) TJD(     1.183)   Mem(51205)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3869 Pages Requested: 201 Pages Taken: 227
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     79.005 : PID( 87)  JAT(    79.002) TJD(     2.259)   Mem(14177)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3668 Pages Requested: 56 Pages Taken: 428
+ >>>>>Process # 85 complete, 84 Processes Completed So Far <<<<<<
+ >>>>>Process # 86 complete, 85 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     80.636 : PID( 88)  JAT(    80.634) TJD(     0.450)   Mem(36114)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3995 Pages Requested: 142 Pages Taken: 101
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     81.203 : PID( 89)  JAT(    81.202) TJD(     2.368)   Mem(57887)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3853 Pages Requested: 227 Pages Taken: 243
+ >>>>>Process # 74 complete, 86 Processes Completed So Far <<<<<<
+ >>>>>Process # 88 complete, 87 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     83.080 : PID( 90)  JAT(    83.078) TJD(     1.035)   Mem(22111)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3813 Pages Requested: 87 Pages Taken: 283
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     84.664 : PID( 91)  JAT(    84.662) TJD(     2.903)   Mem(3022)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3726 Pages Requested: 12 Pages Taken: 370
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     84.867 : PID( 92)  JAT(    84.867) TJD(     0.311)   Mem(26989)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3714 Pages Requested: 106 Pages Taken: 382
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     84.986 : PID( 93)  JAT(    84.986) TJD(     5.222)   Mem(23154)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3608 Pages Requested: 91 Pages Taken: 488
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     85.050 : PID( 94)  JAT(    85.050) TJD(     0.923)   Mem(64017)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3517 Pages Requested: 251 Pages Taken: 579
+ >>>>>Process # 87 complete, 88 Processes Completed So Far <<<<<<
+ >>>>>Process # 92 complete, 89 Processes Completed So Far <<<<<<
+ >>>>>Process # 90 complete, 90 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     88.690 : PID( 95)  JAT(    88.686) TJD(     0.150)   Mem(28862)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3515 Pages Requested: 113 Pages Taken: 581
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     89.042 : PID( 96)  JAT(    89.042) TJD(     2.042)   Mem(12062)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3402 Pages Requested: 48 Pages Taken: 694
+ >>>>>Process # 95 complete, 91 Processes Completed So Far <<<<<<
+ >>>>>Process # 89 complete, 92 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     90.470 : PID( 97)  JAT(    90.468) TJD(     0.014)   Mem(33784)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3694 Pages Requested: 132 Pages Taken: 402
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     90.574 : PID( 98)  JAT(    90.574) TJD(     0.671)   Mem(26859)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3562 Pages Requested: 105 Pages Taken: 534
+ >>>>>Process # 94 complete, 93 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     90.851 : PID( 99)  JAT(    90.851) TJD(     1.733)   Mem(45895)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3708 Pages Requested: 180 Pages Taken: 388
+ >>>>>Process # 97 complete, 94 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     92.199 : PID(100)  JAT(    92.197) TJD(     2.442)   Mem(9970)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3660 Pages Requested: 39 Pages Taken: 436
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     93.095 : PID(101)  JAT(    93.094) TJD(     0.403)   Mem(1314)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3621 Pages Requested: 6 Pages Taken: 475
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     94.524 : PID(102)  JAT(    94.522) TJD(     1.644)   Mem(17530)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3615 Pages Requested: 69 Pages Taken: 481
+ >>>>>Process # 98 complete, 95 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     97.094 : PID(103)  JAT(    97.091) TJD(     2.194)   Mem(9627)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3651 Pages Requested: 38 Pages Taken: 445
+ >>>>>Process # 101 complete, 96 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     97.855 : PID(104)  JAT(    97.854) TJD(     0.665)   Mem(36700)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3619 Pages Requested: 144 Pages Taken: 477
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     98.556 : PID(105)  JAT(    98.555) TJD(     1.100)   Mem(19536)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3475 Pages Requested: 77 Pages Taken: 621
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J     99.661 : PID(106)  JAT(    99.660) TJD(     2.080)   Mem(13470)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3398 Pages Requested: 53 Pages Taken: 698
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    101.892 : PID(107)  JAT(   101.890) TJD(     0.162)   Mem(54228)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3345 Pages Requested: 212 Pages Taken: 751
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    101.970 : PID(108)  JAT(   101.969) TJD(     0.677)   Mem(46013)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3133 Pages Requested: 180 Pages Taken: 963
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    102.647 : PID(109)  JAT(   102.646) TJD(     0.015)   Mem(30523)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2953 Pages Requested: 120 Pages Taken: 1143
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    103.047 : PID(110)  JAT(   103.046) TJD(     0.142)   Mem(49408)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2833 Pages Requested: 193 Pages Taken: 1263
+ >>>>>Process # 91 complete, 97 Processes Completed So Far <<<<<<
+ >>>>>Process # 99 complete, 98 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    103.381 : PID(111)  JAT(   103.380) TJD(     0.202)   Mem(24706)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2832 Pages Requested: 97 Pages Taken: 1264
+ >>>>>Process # 96 complete, 99 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    104.164 : PID(112)  JAT(   104.163) TJD(     0.228)   Mem(39234)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2783 Pages Requested: 154 Pages Taken: 1313
+ >>>>>Process # 107 complete, 100 Processes Completed So Far <<<<<<
+ >>>>>Process # 109 complete, 101 Processes Completed So Far <<<<<<
+ >>>>>Process # 110 complete, 102 Processes Completed So Far <<<<<<
+ >>>>>Process # 104 complete, 103 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    107.018 : PID(113)  JAT(   107.015) TJD(     0.521)   Mem(43095)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3298 Pages Requested: 169 Pages Taken: 798
+ >>>>>Process # 111 complete, 104 Processes Completed So Far <<<<<<
+ >>>>>Process # 112 complete, 105 Processes Completed So Far <<<<<<
+ >>>>>Process # 108 complete, 106 Processes Completed So Far <<<<<<
+ >>>>>Process # 102 complete, 107 Processes Completed So Far <<<<<<
+ >>>>>Process # 105 complete, 108 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    109.780 : PID(114)  JAT(   109.777) TJD(     0.153)   Mem(10549)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3706 Pages Requested: 42 Pages Taken: 390
+ >>>>>Process # 113 complete, 109 Processes Completed So Far <<<<<<
+ >>>>>Process # 114 complete, 110 Processes Completed So Far <<<<<<
+ >>>>>Process # 100 complete, 111 Processes Completed So Far <<<<<<
+ >>>>>Process # 103 complete, 112 Processes Completed So Far <<<<<<
+ >>>>>Process # 106 complete, 113 Processes Completed So Far <<<<<<
+ >>>>>Process # 93 complete, 114 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    115.602 : PID(115)  JAT(   115.597) TJD(     1.374)   Mem(12475)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 4096 Pages Requested: 49 Pages Taken: 0
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    115.636 : PID(116)  JAT(   115.636) TJD(     0.308)   Mem(38636)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 4047 Pages Requested: 151 Pages Taken: 49
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    116.022 : PID(117)  JAT(   116.020) TJD(     1.312)   Mem(14518)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3896 Pages Requested: 57 Pages Taken: 200
+ >>>>>Process # 116 complete, 115 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    117.009 : PID(118)  JAT(   117.008) TJD(     1.633)   Mem(40218)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3990 Pages Requested: 158 Pages Taken: 106
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    119.108 : PID(119)  JAT(   119.107) TJD(     6.147)   Mem(34100)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3832 Pages Requested: 134 Pages Taken: 264
+ >>>>>Process # 115 complete, 116 Processes Completed So Far <<<<<<
+ >>>>>Process # 117 complete, 117 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    119.884 : PID(120)  JAT(   119.882) TJD(     3.084)   Mem(26700)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3804 Pages Requested: 105 Pages Taken: 292
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    120.570 : PID(121)  JAT(   120.569) TJD(     0.002)   Mem(24034)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3699 Pages Requested: 94 Pages Taken: 397
+ >>>>>Process # 121 complete, 118 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    121.563 : PID(122)  JAT(   121.563) TJD(     2.254)   Mem(40373)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3699 Pages Requested: 158 Pages Taken: 397
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    121.795 : PID(123)  JAT(   121.795) TJD(     0.026)   Mem(12188)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3541 Pages Requested: 48 Pages Taken: 555
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    122.640 : PID(124)  JAT(   122.640) TJD(     1.927)   Mem(35099)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3493 Pages Requested: 138 Pages Taken: 603
+ >>>>>Process # 118 complete, 119 Processes Completed So Far <<<<<<
+ >>>>>Process # 123 complete, 120 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    124.058 : PID(125)  JAT(   124.056) TJD(     0.227)   Mem(12217)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3561 Pages Requested: 48 Pages Taken: 535
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    124.771 : PID(126)  JAT(   124.771) TJD(     1.039)   Mem(23734)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3513 Pages Requested: 93 Pages Taken: 583
+ >>>>>Process # 125 complete, 121 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    127.062 : PID(127)  JAT(   127.060) TJD(     0.105)   Mem(58675)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3468 Pages Requested: 230 Pages Taken: 628
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    127.075 : PID(128)  JAT(   127.075) TJD(     1.712)   Mem(61328)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3238 Pages Requested: 240 Pages Taken: 858
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    127.320 : PID(129)  JAT(   127.319) TJD(     1.206)   Mem(8502)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2998 Pages Requested: 34 Pages Taken: 1098
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    127.939 : PID(130)  JAT(   127.938) TJD(     0.858)   Mem(24409)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2964 Pages Requested: 96 Pages Taken: 1132
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    128.686 : PID(131)  JAT(   128.685) TJD(     0.064)   Mem(32621)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2868 Pages Requested: 128 Pages Taken: 1228
+ >>>>>Process # 127 complete, 122 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    129.435 : PID(132)  JAT(   129.434) TJD(     1.087)   Mem(29489)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2970 Pages Requested: 116 Pages Taken: 1126
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    129.631 : PID(133)  JAT(   129.631) TJD(     0.287)   Mem(22980)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2854 Pages Requested: 90 Pages Taken: 1242
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    130.046 : PID(134)  JAT(   130.045) TJD(     0.367)   Mem(52803)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2764 Pages Requested: 207 Pages Taken: 1332
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    130.123 : PID(135)  JAT(   130.123) TJD(     0.666)   Mem(37391)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2557 Pages Requested: 147 Pages Taken: 1539
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    130.979 : PID(136)  JAT(   130.978) TJD(     2.176)   Mem(28049)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2410 Pages Requested: 110 Pages Taken: 1686
+ >>>>>Process # 131 complete, 123 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    132.154 : PID(137)  JAT(   132.153) TJD(     0.935)   Mem(35190)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2428 Pages Requested: 138 Pages Taken: 1668
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    134.330 : PID(138)  JAT(   134.328) TJD(     0.066)   Mem(9376)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2290 Pages Requested: 37 Pages Taken: 1806
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    134.387 : PID(139)  JAT(   134.387) TJD(     0.820)   Mem(13318)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2253 Pages Requested: 53 Pages Taken: 1843
+ >>>>>Process # 133 complete, 124 Processes Completed So Far <<<<<<
+ >>>>>Process # 126 complete, 125 Processes Completed So Far <<<<<<
+ >>>>>Process # 134 complete, 126 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    136.665 : PID(140)  JAT(   136.662) TJD(     0.811)   Mem(29206)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2590 Pages Requested: 115 Pages Taken: 1506
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    137.046 : PID(141)  JAT(   137.046) TJD(     0.188)   Mem(6725)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2475 Pages Requested: 27 Pages Taken: 1621
+ >>>>>Process # 138 complete, 127 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    137.481 : PID(142)  JAT(   137.480) TJD(     0.624)   Mem(10396)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2485 Pages Requested: 41 Pages Taken: 1611
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    137.938 : PID(143)  JAT(   137.938) TJD(     1.389)   Mem(58118)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2444 Pages Requested: 228 Pages Taken: 1652
+ >>>>>Process # 124 complete, 128 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    137.953 : PID(144)  JAT(   137.952) TJD(     0.134)   Mem(8140)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2354 Pages Requested: 32 Pages Taken: 1742
+ >>>>>Process # 122 complete, 129 Processes Completed So Far <<<<<<
+ >>>>>Process # 130 complete, 130 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    139.969 : PID(145)  JAT(   139.967) TJD(     1.830)   Mem(56632)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2576 Pages Requested: 222 Pages Taken: 1520
+ >>>>>Process # 135 complete, 131 Processes Completed So Far <<<<<<
+ >>>>>Process # 141 complete, 132 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    140.577 : PID(146)  JAT(   140.576) TJD(     1.032)   Mem(28403)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2528 Pages Requested: 111 Pages Taken: 1568
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    140.610 : PID(147)  JAT(   140.610) TJD(     0.294)   Mem(55459)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2417 Pages Requested: 217 Pages Taken: 1679
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    140.682 : PID(148)  JAT(   140.682) TJD(     0.689)   Mem(25833)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2200 Pages Requested: 101 Pages Taken: 1896
+ >>>>>Process # 144 complete, 133 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    141.651 : PID(149)  JAT(   141.650) TJD(     1.810)   Mem(40974)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2131 Pages Requested: 161 Pages Taken: 1965
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    142.131 : PID(150)  JAT(   142.130) TJD(     0.593)   Mem(51268)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1970 Pages Requested: 201 Pages Taken: 2126
+ >>>>>Process # 120 complete, 134 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    143.411 : PID(151)  JAT(   143.410) TJD(     2.010)   Mem(15456)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1874 Pages Requested: 61 Pages Taken: 2222
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    143.514 : PID(152)  JAT(   143.514) TJD(     0.186)   Mem(51314)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1813 Pages Requested: 201 Pages Taken: 2283
+ >>>>>Process # 129 complete, 135 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    143.861 : PID(153)  JAT(   143.861) TJD(     0.060)   Mem(13768)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1646 Pages Requested: 54 Pages Taken: 2450
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    144.186 : PID(154)  JAT(   144.185) TJD(     0.961)   Mem(21591)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1592 Pages Requested: 85 Pages Taken: 2504
+ >>>>>Process # 132 complete, 136 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    145.269 : PID(155)  JAT(   145.268) TJD(     0.531)   Mem(1282)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1623 Pages Requested: 6 Pages Taken: 2473
+ >>>>>Process # 137 complete, 137 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    146.058 : PID(156)  JAT(   146.057) TJD(     1.243)   Mem(33583)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1755 Pages Requested: 132 Pages Taken: 2341
+ >>>>>Process # 147 complete, 138 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    147.473 : PID(157)  JAT(   147.472) TJD(     1.093)   Mem(59964)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1840 Pages Requested: 235 Pages Taken: 2256
+ >>>>>Process # 152 complete, 139 Processes Completed So Far <<<<<<
+ >>>>>Process # 153 complete, 140 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    148.036 : PID(158)  JAT(   148.035) TJD(     0.651)   Mem(9595)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1860 Pages Requested: 38 Pages Taken: 2236
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    148.477 : PID(159)  JAT(   148.477) TJD(     0.173)   Mem(33814)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1822 Pages Requested: 133 Pages Taken: 2274
+ >>>>>Process # 139 complete, 141 Processes Completed So Far <<<<<<
+ >>>>>Process # 142 complete, 142 Processes Completed So Far <<<<<<
+ >>>>>Process # 128 complete, 143 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    149.380 : PID(160)  JAT(   149.379) TJD(     0.300)   Mem(31715)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2023 Pages Requested: 124 Pages Taken: 2073
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    149.710 : PID(161)  JAT(   149.710) TJD(     0.160)   Mem(31111)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1899 Pages Requested: 122 Pages Taken: 2197
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    149.801 : PID(162)  JAT(   149.801) TJD(     1.618)   Mem(44484)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1777 Pages Requested: 174 Pages Taken: 2319
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    150.066 : PID(163)  JAT(   150.065) TJD(     0.763)   Mem(56182)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1603 Pages Requested: 220 Pages Taken: 2493
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    151.114 : PID(164)  JAT(   151.112) TJD(     1.371)   Mem(32111)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1383 Pages Requested: 126 Pages Taken: 2713
+ >>>>>Process # 140 complete, 144 Processes Completed So Far <<<<<<
+ >>>>>Process # 159 complete, 145 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    152.728 : PID(165)  JAT(   152.726) TJD(     0.859)   Mem(57084)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1505 Pages Requested: 223 Pages Taken: 2591
+ >>>>>Process # 150 complete, 146 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    153.670 : PID(166)  JAT(   153.669) TJD(     0.511)   Mem(24749)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1483 Pages Requested: 97 Pages Taken: 2613
+ >>>>>Process # 148 complete, 147 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    153.769 : PID(167)  JAT(   153.769) TJD(     1.135)   Mem(56384)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1487 Pages Requested: 221 Pages Taken: 2609
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    153.798 : PID(168)  JAT(   153.798) TJD(     1.641)   Mem(12120)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1266 Pages Requested: 48 Pages Taken: 2830
+ >>>>>Process # 161 complete, 148 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    154.454 : PID(169)  JAT(   154.454) TJD(     0.015)   Mem(47097)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1340 Pages Requested: 184 Pages Taken: 2756
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    154.998 : PID(170)  JAT(   154.998) TJD(     0.788)   Mem(13705)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1156 Pages Requested: 54 Pages Taken: 2940
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    155.044 : PID(171)  JAT(   155.044) TJD(     4.567)   Mem(5514)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1102 Pages Requested: 22 Pages Taken: 2994
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    156.271 : PID(172)  JAT(   156.270) TJD(     0.022)   Mem(42194)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1080 Pages Requested: 165 Pages Taken: 3016
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    157.138 : PID(173)  JAT(   157.137) TJD(     1.041)   Mem(65207)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 915 Pages Requested: 255 Pages Taken: 3181
+ >>>>>Process # 155 complete, 149 Processes Completed So Far <<<<<<
+ >>>>>Process # 160 complete, 150 Processes Completed So Far <<<<<<
+ >>>>>Process # 169 complete, 151 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    159.716 : PID(174)  JAT(   159.715) TJD(     0.166)   Mem(2480)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 974 Pages Requested: 10 Pages Taken: 3122
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    159.988 : PID(175)  JAT(   159.987) TJD(     1.319)   Mem(3530)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 964 Pages Requested: 14 Pages Taken: 3132
+ >>>>>Process # 143 complete, 152 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    161.096 : PID(176)  JAT(   161.095) TJD(     0.262)   Mem(39246)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1178 Pages Requested: 154 Pages Taken: 2918
+ >>>>>Process # 146 complete, 153 Processes Completed So Far <<<<<<
+ >>>>>Process # 172 complete, 154 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    161.571 : PID(177)  JAT(   161.571) TJD(     0.503)   Mem(22008)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1300 Pages Requested: 86 Pages Taken: 2796
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    162.059 : PID(178)  JAT(   162.058) TJD(     0.277)   Mem(1614)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1214 Pages Requested: 7 Pages Taken: 2882
+ >>>>>Process # 154 complete, 155 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    163.010 : PID(179)  JAT(   163.009) TJD(     0.462)   Mem(61614)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1292 Pages Requested: 241 Pages Taken: 2804
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    163.247 : PID(180)  JAT(   163.247) TJD(     0.177)   Mem(40494)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1051 Pages Requested: 159 Pages Taken: 3045
+ >>>>>Process # 158 complete, 156 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    164.422 : PID(181)  JAT(   164.421) TJD(     2.823)   Mem(12848)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 930 Pages Requested: 51 Pages Taken: 3166
+ >>>>>Process # 174 complete, 157 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    164.958 : PID(182)  JAT(   164.957) TJD(     0.741)   Mem(33121)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 889 Pages Requested: 130 Pages Taken: 3207
+ >>>>>Process # 136 complete, 158 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    165.632 : PID(183)  JAT(   165.631) TJD(     1.045)   Mem(10993)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 869 Pages Requested: 43 Pages Taken: 3227
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    165.917 : PID(184)  JAT(   165.917) TJD(     0.500)   Mem(55577)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 826 Pages Requested: 218 Pages Taken: 3270
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    166.150 : PID(185)  JAT(   166.149) TJD(     0.068)   Mem(38030)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 608 Pages Requested: 149 Pages Taken: 3488
+ >>>>>Process # 163 complete, 159 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    166.964 : PID(186)  JAT(   166.963) TJD(     1.347)   Mem(2853)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 679 Pages Requested: 12 Pages Taken: 3417
+ >>>>>Process # 166 complete, 160 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    168.072 : PID(187)  JAT(   168.071) TJD(     0.800)   Mem(44382)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 764 Pages Requested: 174 Pages Taken: 3332
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    168.704 : PID(188)  JAT(   168.704) TJD(     0.182)   Mem(7183)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 590 Pages Requested: 29 Pages Taken: 3506
+ >>>>>Process # 180 complete, 161 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    169.876 : PID(189)  JAT(   169.875) TJD(     1.722)   Mem(11002)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 720 Pages Requested: 43 Pages Taken: 3376
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    170.048 : PID(190)  JAT(   170.048) TJD(     0.006)   Mem(36885)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 677 Pages Requested: 145 Pages Taken: 3419
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    170.583 : PID(191)  JAT(   170.582) TJD(     1.830)   Mem(62468)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 532 Pages Requested: 245 Pages Taken: 3564
+ >>>>>Process # 176 complete, 162 Processes Completed So Far <<<<<<
+ >>>>>Process # 157 complete, 163 Processes Completed So Far <<<<<<
+ >>>>>Process # 185 complete, 164 Processes Completed So Far <<<<<<
+ >>>>>Process # 178 complete, 165 Processes Completed So Far <<<<<<
+ >>>>>Process # 170 complete, 166 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    172.905 : PID(192)  JAT(   172.902) TJD(     0.561)   Mem(25662)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 886 Pages Requested: 101 Pages Taken: 3210
+ >>>>>Process # 156 complete, 167 Processes Completed So Far <<<<<<
+ >>>>>Process # 165 complete, 168 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    174.430 : PID(193)  JAT(   174.429) TJD(     1.467)   Mem(62963)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1140 Pages Requested: 246 Pages Taken: 2956
+ >>>>>Process # 188 complete, 169 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    175.043 : PID(194)  JAT(   175.042) TJD(     0.985)   Mem(54073)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 923 Pages Requested: 212 Pages Taken: 3173
+ >>>>>Process # 190 complete, 170 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    175.660 : PID(195)  JAT(   175.659) TJD(     2.982)   Mem(61536)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 856 Pages Requested: 241 Pages Taken: 3240
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    175.909 : PID(196)  JAT(   175.908) TJD(     0.071)   Mem(8503)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 615 Pages Requested: 34 Pages Taken: 3481
+ >>>>>Process # 177 complete, 171 Processes Completed So Far <<<<<<
+ >>>>>Process # 179 complete, 172 Processes Completed So Far <<<<<<
+ >>>>>Process # 145 complete, 173 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    178.721 : PID(197)  JAT(   178.718) TJD(     1.219)   Mem(58846)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1130 Pages Requested: 230 Pages Taken: 2966
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    179.698 : PID(198)  JAT(   179.697) TJD(     0.491)   Mem(39776)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 900 Pages Requested: 156 Pages Taken: 3196
+ >>>>>Process # 167 complete, 174 Processes Completed So Far <<<<<<
+ >>>>>Process # 149 complete, 175 Processes Completed So Far <<<<<<
+ >>>>>Process # 164 complete, 176 Processes Completed So Far <<<<<<
+ >>>>>Process # 196 complete, 177 Processes Completed So Far <<<<<<
+ >>>>>Process # 184 complete, 178 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    182.468 : PID(199)  JAT(   182.465) TJD(     0.219)   Mem(28400)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1504 Pages Requested: 111 Pages Taken: 2592
+ >>>>>Process # 173 complete, 179 Processes Completed So Far <<<<<<
+ >>>>>Process # 182 complete, 180 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    184.403 : PID(200)  JAT(   184.401) TJD(     0.078)   Mem(48378)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1778 Pages Requested: 189 Pages Taken: 2318
+ >>>>>Process # 187 complete, 181 Processes Completed So Far <<<<<<
+ >>>>>Process # 192 complete, 182 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    185.782 : PID(201)  JAT(   185.781) TJD(     1.674)   Mem(63030)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1864 Pages Requested: 247 Pages Taken: 2232
+ >>>>>Process # 151 complete, 183 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    185.952 : PID(202)  JAT(   185.951) TJD(     0.351)   Mem(21393)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1678 Pages Requested: 84 Pages Taken: 2418
+ >>>>>Process # 162 complete, 184 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    187.747 : PID(203)  JAT(   187.745) TJD(     0.352)   Mem(44669)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1768 Pages Requested: 175 Pages Taken: 2328
+ >>>>>Process # 200 complete, 185 Processes Completed So Far <<<<<<
+ >>>>>Process # 175 complete, 186 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    189.141 : PID(204)  JAT(   189.139) TJD(     0.344)   Mem(20495)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1796 Pages Requested: 81 Pages Taken: 2300
+ >>>>>Process # 199 complete, 187 Processes Completed So Far <<<<<<
+ >>>>>Process # 168 complete, 188 Processes Completed So Far <<<<<<
+ >>>>>Process # 183 complete, 189 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    190.149 : PID(205)  JAT(   190.148) TJD(     0.132)   Mem(49576)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1917 Pages Requested: 194 Pages Taken: 2179
+ >>>>>Process # 198 complete, 190 Processes Completed So Far <<<<<<
+ >>>>>Process # 119 complete, 191 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    192.276 : PID(206)  JAT(   192.274) TJD(     0.021)   Mem(2998)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2013 Pages Requested: 12 Pages Taken: 2083
+ >>>>>Process # 202 complete, 192 Processes Completed So Far <<<<<<
+ >>>>>Process # 194 complete, 193 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    192.789 : PID(207)  JAT(   192.788) TJD(     0.816)   Mem(13069)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2297 Pages Requested: 52 Pages Taken: 1799
+ >>>>>Process # 186 complete, 194 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    193.186 : PID(208)  JAT(   193.185) TJD(     0.222)   Mem(30850)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2257 Pages Requested: 121 Pages Taken: 1839
+ >>>>>Process # 205 complete, 195 Processes Completed So Far <<<<<<
+ >>>>>Process # 203 complete, 196 Processes Completed So Far <<<<<<
+ >>>>>Process # 204 complete, 197 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    194.557 : PID(209)  JAT(   194.556) TJD(     0.412)   Mem(40462)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2586 Pages Requested: 159 Pages Taken: 1510
+ >>>>>Process # 206 complete, 198 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    195.184 : PID(210)  JAT(   195.183) TJD(     1.239)   Mem(2155)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2439 Pages Requested: 9 Pages Taken: 1657
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    196.158 : PID(211)  JAT(   196.157) TJD(     0.447)   Mem(1607)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2430 Pages Requested: 7 Pages Taken: 1666
+ >>>>>Process # 208 complete, 199 Processes Completed So Far <<<<<<
+ >>>>>Process # 197 complete, 200 Processes Completed So Far <<<<<<
+ >>>>>Process # 189 complete, 201 Processes Completed So Far <<<<<<
+ >>>>>Process # 193 complete, 202 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    199.879 : PID(212)  JAT(   199.875) TJD(     0.053)   Mem(48791)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3063 Pages Requested: 191 Pages Taken: 1033
+ >>>>>Process # 191 complete, 203 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    200.548 : PID(213)  JAT(   200.547) TJD(     0.023)   Mem(43736)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3117 Pages Requested: 171 Pages Taken: 979
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    200.730 : PID(214)  JAT(   200.729) TJD(     0.558)   Mem(21854)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2946 Pages Requested: 86 Pages Taken: 1150
+ >>>>>Process # 209 complete, 204 Processes Completed So Far <<<<<<
+ >>>>>Process # 212 complete, 205 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    201.774 : PID(215)  JAT(   201.773) TJD(     1.564)   Mem(63420)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3210 Pages Requested: 248 Pages Taken: 886
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    201.959 : PID(216)  JAT(   201.959) TJD(     0.355)   Mem(1148)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2962 Pages Requested: 5 Pages Taken: 1134
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    201.961 : PID(217)  JAT(   201.961) TJD(     2.915)   Mem(28493)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2957 Pages Requested: 112 Pages Taken: 1139
+ >>>>>Process # 207 complete, 206 Processes Completed So Far <<<<<<
+ >>>>>Process # 211 complete, 207 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    202.251 : PID(218)  JAT(   202.251) TJD(     0.431)   Mem(2734)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2904 Pages Requested: 11 Pages Taken: 1192
+ >>>>>Process # 213 complete, 208 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    203.942 : PID(219)  JAT(   203.941) TJD(     0.850)   Mem(38501)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 3064 Pages Requested: 151 Pages Taken: 1032
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    203.944 : PID(220)  JAT(   203.944) TJD(     1.691)   Mem(54858)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2913 Pages Requested: 215 Pages Taken: 1183
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    204.832 : PID(221)  JAT(   204.831) TJD(     1.706)   Mem(59323)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2698 Pages Requested: 232 Pages Taken: 1398
+ >>>>>Process # 201 complete, 209 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    205.194 : PID(222)  JAT(   205.193) TJD(     1.223)   Mem(12865)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2713 Pages Requested: 51 Pages Taken: 1383
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    206.269 : PID(223)  JAT(   206.268) TJD(     0.950)   Mem(55617)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2662 Pages Requested: 218 Pages Taken: 1434
+ >>>>>Process # 216 complete, 210 Processes Completed So Far <<<<<<
+ >>>>>Process # 214 complete, 211 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    207.597 : PID(224)  JAT(   207.596) TJD(     1.956)   Mem(47918)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2535 Pages Requested: 188 Pages Taken: 1561
+ >>>>>Process # 181 complete, 212 Processes Completed So Far <<<<<<
+ >>>>>Process # 218 complete, 213 Processes Completed So Far <<<<<<
+ >>>>>Process # 210 complete, 214 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    209.355 : PID(225)  JAT(   209.353) TJD(     0.595)   Mem(11132)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2418 Pages Requested: 44 Pages Taken: 1678
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    209.775 : PID(226)  JAT(   209.774) TJD(     0.668)   Mem(34800)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2374 Pages Requested: 136 Pages Taken: 1722
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    209.804 : PID(227)  JAT(   209.804) TJD(     1.106)   Mem(53731)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2238 Pages Requested: 210 Pages Taken: 1858
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    210.943 : PID(228)  JAT(   210.941) TJD(     0.338)   Mem(47732)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2028 Pages Requested: 187 Pages Taken: 2068
+ >>>>>Process # 195 complete, 215 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    213.560 : PID(229)  JAT(   213.557) TJD(     0.845)   Mem(64105)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2082 Pages Requested: 251 Pages Taken: 2014
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    214.216 : PID(230)  JAT(   214.215) TJD(     0.619)   Mem(31501)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1831 Pages Requested: 124 Pages Taken: 2265
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    214.472 : PID(231)  JAT(   214.472) TJD(     0.286)   Mem(53096)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1707 Pages Requested: 208 Pages Taken: 2389
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    215.126 : PID(232)  JAT(   215.125) TJD(     0.846)   Mem(50145)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1499 Pages Requested: 196 Pages Taken: 2597
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    215.907 : PID(233)  JAT(   215.906) TJD(     1.456)   Mem(61472)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1303 Pages Requested: 241 Pages Taken: 2793
+ >>>>>Process # 219 complete, 216 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    216.696 : PID(234)  JAT(   216.696) TJD(     1.557)   Mem(9880)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1213 Pages Requested: 39 Pages Taken: 2883
+ >>>>>Process # 228 complete, 217 Processes Completed So Far <<<<<<
+ >>>>>Process # 225 complete, 218 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    218.145 : PID(235)  JAT(   218.143) TJD(     0.636)   Mem(50190)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1405 Pages Requested: 197 Pages Taken: 2691
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    219.138 : PID(236)  JAT(   219.137) TJD(     0.275)   Mem(47495)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1208 Pages Requested: 186 Pages Taken: 2888
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    219.231 : PID(237)  JAT(   219.231) TJD(     0.838)   Mem(6962)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1022 Pages Requested: 28 Pages Taken: 3074
+ >>>>>Process # 223 complete, 219 Processes Completed So Far <<<<<<
+ >>>>>Process # 231 complete, 220 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    221.364 : PID(238)  JAT(   221.362) TJD(     0.061)   Mem(12849)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1420 Pages Requested: 51 Pages Taken: 2676
+ >>>>>Process # 215 complete, 221 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    221.556 : PID(239)  JAT(   221.556) TJD(     1.590)   Mem(58999)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1617 Pages Requested: 231 Pages Taken: 2479
+ >>>>>Process # 226 complete, 222 Processes Completed So Far <<<<<<
+ >>>>>Process # 171 complete, 223 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    223.126 : PID(240)  JAT(   223.125) TJD(     1.624)   Mem(13059)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1544 Pages Requested: 52 Pages Taken: 2552
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    223.502 : PID(241)  JAT(   223.502) TJD(     2.228)   Mem(13094)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1492 Pages Requested: 52 Pages Taken: 2604
+ >>>>>Process # 222 complete, 224 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    223.816 : PID(242)  JAT(   223.816) TJD(     0.361)   Mem(52372)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1491 Pages Requested: 205 Pages Taken: 2605
+ >>>>>Process # 238 complete, 225 Processes Completed So Far <<<<<<
+ >>>>>Process # 236 complete, 226 Processes Completed So Far <<<<<<
+ >>>>>Process # 230 complete, 227 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    227.105 : PID(243)  JAT(   227.102) TJD(     0.659)   Mem(54097)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1647 Pages Requested: 212 Pages Taken: 2449
+ >>>>>Process # 227 complete, 228 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    227.392 : PID(244)  JAT(   227.391) TJD(     1.276)   Mem(18399)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1645 Pages Requested: 72 Pages Taken: 2451
+ >>>>>Process # 220 complete, 229 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    228.348 : PID(245)  JAT(   228.347) TJD(     0.363)   Mem(51429)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 1788 Pages Requested: 201 Pages Taken: 2308
+ >>>>>Process # 229 complete, 230 Processes Completed So Far <<<<<<
+ >>>>>Process # 221 complete, 231 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    229.466 : PID(246)  JAT(   229.465) TJD(     2.182)   Mem(12335)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2070 Pages Requested: 49 Pages Taken: 2026
+ >>>>>Process # 242 complete, 232 Processes Completed So Far <<<<<<
+ >>>>>Process # 235 complete, 233 Processes Completed So Far <<<<<<
+ >>>>>Process # 232 complete, 234 Processes Completed So Far <<<<<<
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    230.446 : PID(247)  JAT(   230.445) TJD(     0.535)   Mem(44254)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2619 Pages Requested: 173 Pages Taken: 1477
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    231.249 : PID(248)  JAT(   231.248) TJD(     0.911)   Mem(63604)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2446 Pages Requested: 249 Pages Taken: 1650
+
+>>>>>> Begin   Job Queue in NewJobIn from Head
+J    231.782 : PID(249)  JAT(   231.781) TJD(     3.324)   Mem(2801)
+>>>>>> End   Job Queue in NewJobIn 
+
+Pages Available: 2197 Pages Requested: 11 Pages Taken: 1899
+
+
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.050000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.900322   ART=0.462882  CBT = 0.977489  T=1.013749 AWT=9.638377 
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.050000   Show = 0
+Number of Completed Processes = 235
+ATAT=10.900322   ART=0.462882  CBT = 0.977274  T=1.013749 AWT=9.149781 AWTJQ=0.001043
